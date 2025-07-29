@@ -1,0 +1,3 @@
+Hello .
+it's sample.txt .
+I made this for my assignment 4.
